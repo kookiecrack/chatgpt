@@ -1,5 +1,6 @@
 # chatGPT Discord Bot
 Send/receive messages to/from chatGPT via Discord. 
+<img src="example.png">
 
 ### Configure your Discord settings
 - Go to https://discord.com/developers/applications > New Application

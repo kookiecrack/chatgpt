@@ -15,7 +15,7 @@ Send/receive messages to/from chatGPT via Discord.
 - Copy this API key. U will need it for the python script
 
 ### Install or Update 
-- pip3 install discord
+- `pip3 install discord`
 
 ### Using the python script
 - Enter your chatGPT API key and Discord Token into the relevant fields stated in python script.

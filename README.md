@@ -20,7 +20,7 @@
 ### Using the python script
 - Enter your chatGPT API key and Discord Token into the relevant fields stated in python script.
 - Run `python3 chatgpt_bot.py`
-- Now you can send/receive messages to/form chatGPT via Discord (even discord mobile app).
+- Now you can send/receive messages to/from chatGPT via Discord (even discord mobile app).
 
 ### Additional Notes
 - Consider using a raspberry pi to run the python script.
